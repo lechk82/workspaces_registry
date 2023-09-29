@@ -1,6 +1,7 @@
 {
   "description": "TexLive",
-  "name": "lechk82/kasm-debian-bookworm-desktop-vscode-texlive-full:2023",
+  "name": "registry.gitlab.com/lechko/kasm-workspaces/kasm-debian-bookworm-desktop-vscode-texlive-full:2023",
+  "registry" : "https://registry.gitlab.com",
   "image_src": "texlive.png",
   "categories": [
     "Development"
