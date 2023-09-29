@@ -1,7 +1,7 @@
 {
   "description": "TexLive",
   "name": "kasm-debian-bookworm-desktop-vscode-texlive-full:2023",
-  "docker_registry": "192.168.2.54:5000",
+  "docker_registry": "http://192.168.2.54:5000",
   "image_src": "texlive.png",
   "categories": [
     "Development"
